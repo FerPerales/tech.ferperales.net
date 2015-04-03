@@ -13,3 +13,6 @@ markdown: kramdown
 
 # Custom permalink
 permalink: /:year/:month/:title
+
+# Pagination
+paginate: 5
