@@ -16,3 +16,6 @@ permalink: /:year/:month/:title
 
 # Pagination
 paginate: 5
+
+# Analytics
+google_analytics_tracking_id: UA-61502396-1
